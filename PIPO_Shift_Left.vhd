@@ -1,8 +1,3 @@
--- Team Number (T-ZERO)
--- Dr. Abdallah S. Abdallah 
--- aua639@psu.edu
--- Register_4bits_PIPO_WithLoadOrShiftLeft.vhd
--- Version 1.0 , 10/19/2018
 
 library IEEE;
 use IEEE.std_logic_1164.all;
